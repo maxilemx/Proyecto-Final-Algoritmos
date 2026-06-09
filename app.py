@@ -684,8 +684,7 @@ o débiles cada año? ¿Qué implica para inventario, contratación y promocione
 este tablero, ¿cuál sería y por qué? (Pista: revisa el diagnóstico automático.)
 
 ---
-**Tu insight ideal:** una frase con TU hallazgo (con un dato concreto) + una frase
-con TU recomendación.
+
     """)
 
 # ============================================================
