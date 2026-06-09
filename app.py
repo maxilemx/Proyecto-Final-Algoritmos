@@ -37,7 +37,7 @@ TU_ID     = "182484"
 # INSIGHT DE NEGOCIO (hallazgo + recomendación)
 # ============================================================
 TU_INSIGHT = """
-**Hallazgo.** El descuento es el principal destructor de utilidad de la tienda.
+El descuento es el principal destructor de utilidad de la tienda.
 Las líneas con descuento mayor a 20% —apenas el 14% del total— acumulan cerca de
 **−$135,000**, casi un tercio de lo que gana el resto del negocio, y arriba de ese
 umbral más de 9 de cada 10 órdenes pierden dinero. La evidencia geográfica lo
