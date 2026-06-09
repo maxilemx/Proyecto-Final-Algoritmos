@@ -683,7 +683,6 @@ o débiles cada año? ¿Qué implica para inventario, contratación y promocione
 6. **Reto extra (modo CEO).** Si tuvieras 10 segundos para tomar UNA decisión con
 este tablero, ¿cuál sería y por qué? (Pista: revisa el diagnóstico automático.)
 
----
 
     """)
 
