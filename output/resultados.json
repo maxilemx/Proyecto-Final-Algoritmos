@@ -1,0 +1,710 @@
+{
+  "prod_filas_inicial": 146,
+  "prod_dup_id": 2,
+  "prod_categorias": [
+    "Bebidas",
+    "Café caliente",
+    "Café frío",
+    "Panadería",
+    "Para llevar",
+    "Pastelería",
+    "Snacks salados",
+    "Temporada"
+  ],
+  "prod_n_categorias": 8,
+  "prod_costo_nulos": 2,
+  "prod_filas_final": 144,
+  "prod_margen_pct_prom": 56.8,
+  "suc_filas": 8,
+  "suc_ciudades": {
+    "Puebla": 5,
+    "CDMX": 3
+  },
+  "suc_m2_nulos": 1,
+  "ven_filas_inicial": 85300,
+  "ven_dup_completos": 206,
+  "ven_dup_id": 300,
+  "ven_total_nulos": 1076,
+  "ven_total_negativos": 166,
+  "ven_sucursal0": 181,
+  "ven_prod_invalidos": 156,
+  "ven_cantidad0": 151,
+  "ven_cantidad99": 159,
+  "ven_filas_final": 83122,
+  "ven_filas_eliminadas": 2178,
+  "cli_filas_inicial": 14320,
+  "cli_dup_completos": 11,
+  "cli_dup_id": 120,
+  "cli_genero": {
+    "F": 6561,
+    "M": 6492,
+    "No especificado": 574,
+    "Otro": 573
+  },
+  "cli_edad_invalida": 233,
+  "cli_suc_fav_99": 88,
+  "cli_suc_fav_nulos": 74,
+  "cli_ultima_compra_nulos": 454,
+  "fecha_corte": "2026-05-31",
+  "cli_filas_final": 14200,
+  "kpi_ingreso_total": 10006104.64,
+  "kpi_ganancia_total": 5992588.62,
+  "kpi_n_transacciones": 83122,
+  "kpi_ticket_promedio": 120.38,
+  "kpi_margen_global_pct": 59.9,
+  "suc_performance": [
+    {
+      "sucursal": "Centro Historico",
+      "ingreso": 1366770.5,
+      "ganancia": 777733.84,
+      "transacciones": 12199,
+      "ticket_prom": 112.04,
+      "ciudad": "Puebla",
+      "renta_mensual": 38000.0,
+      "empleados": 9,
+      "m2": 120.0,
+      "renta_18m": 684000.0,
+      "util_post_renta": 93733.83999999997,
+      "ingreso_x_empleado": 151863.0
+    },
+    {
+      "sucursal": "Angelopolis",
+      "ingreso": 1673781.9,
+      "ganancia": 978907.99,
+      "transacciones": 14391,
+      "ticket_prom": 116.31,
+      "ciudad": "Puebla",
+      "renta_mensual": 52000.0,
+      "empleados": 11,
+      "m2": 95.0,
+      "renta_18m": 936000.0,
+      "util_post_renta": 42907.98999999999,
+      "ingreso_x_empleado": 152162.0
+    },
+    {
+      "sucursal": "Zavaleta",
+      "ingreso": 1313625.6,
+      "ganancia": 771293.78,
+      "transacciones": 11277,
+      "ticket_prom": 116.49,
+      "ciudad": "Puebla",
+      "renta_mensual": 41000.0,
+      "empleados": 9,
+      "m2": 100.0,
+      "renta_18m": 738000.0,
+      "util_post_renta": 33293.78000000003,
+      "ingreso_x_empleado": 145958.0
+    },
+    {
+      "sucursal": "Cholula",
+      "ingreso": 984402.84,
+      "ganancia": 527978.68,
+      "transacciones": 9367,
+      "ticket_prom": 105.09,
+      "ciudad": "Puebla",
+      "renta_mensual": 28000.0,
+      "empleados": 7,
+      "m2": 80.0,
+      "renta_18m": 504000.0,
+      "util_post_renta": 23978.68000000005,
+      "ingreso_x_empleado": 140629.0
+    },
+    {
+      "sucursal": "Condesa",
+      "ingreso": 1623345.35,
+      "ganancia": 981938.14,
+      "transacciones": 13340,
+      "ticket_prom": 121.69,
+      "ciudad": "CDMX",
+      "renta_mensual": 60000.0,
+      "empleados": 10,
+      "m2": 85.0,
+      "renta_18m": 1080000.0,
+      "util_post_renta": -98061.85999999999,
+      "ingreso_x_empleado": 162335.0
+    },
+    {
+      "sucursal": "Coyoacan",
+      "ingreso": 1186735.0,
+      "ganancia": 715307.9,
+      "transacciones": 9813,
+      "ticket_prom": 120.93,
+      "ciudad": "CDMX",
+      "renta_mensual": 47000.0,
+      "empleados": 8,
+      "m2": 75.0,
+      "renta_18m": 846000.0,
+      "util_post_renta": -130692.09999999998,
+      "ingreso_x_empleado": 148342.0
+    },
+    {
+      "sucursal": "Polanco",
+      "ingreso": 1436197.45,
+      "ganancia": 1001608.92,
+      "transacciones": 8897,
+      "ticket_prom": 161.42,
+      "ciudad": "CDMX",
+      "renta_mensual": 85000.0,
+      "empleados": 10,
+      "m2": 90.0,
+      "renta_18m": 1530000.0,
+      "util_post_renta": -528391.08,
+      "ingreso_x_empleado": 143620.0
+    },
+    {
+      "sucursal": "La Paz",
+      "ingreso": 421246.0,
+      "ganancia": 237819.37,
+      "transacciones": 3838,
+      "ticket_prom": 109.76,
+      "ciudad": "Puebla",
+      "renta_mensual": 58000.0,
+      "empleados": 8,
+      "m2": 90.0,
+      "renta_18m": 1044000.0,
+      "util_post_renta": -806180.63,
+      "ingreso_x_empleado": 52656.0
+    }
+  ],
+  "suc_peor": "La Paz",
+  "suc_mejor": "Centro Historico",
+  "suc_perdedoras": [
+    "Condesa",
+    "Coyoacan",
+    "Polanco",
+    "La Paz"
+  ],
+  "cat_performance": [
+    {
+      "categoria": "Café frío",
+      "ingreso": 2663433.21,
+      "ganancia": 1603766.94,
+      "unidades": 35885,
+      "transacciones": 21091,
+      "margen_pct": 60.2
+    },
+    {
+      "categoria": "Café caliente",
+      "ingreso": 2527246.9,
+      "ganancia": 1669863.0,
+      "unidades": 50808,
+      "transacciones": 29861,
+      "margen_pct": 66.1
+    },
+    {
+      "categoria": "Para llevar",
+      "ingreso": 2037528.0,
+      "ganancia": 1057649.2,
+      "unidades": 8095,
+      "transacciones": 4770,
+      "margen_pct": 51.9
+    },
+    {
+      "categoria": "Pastelería",
+      "ingreso": 1145136.0,
+      "ganancia": 698396.83,
+      "unidades": 17627,
+      "transacciones": 10310,
+      "margen_pct": 61.0
+    },
+    {
+      "categoria": "Snacks salados",
+      "ingreso": 898328.43,
+      "ganancia": 505329.09,
+      "unidades": 7619,
+      "transacciones": 4468,
+      "margen_pct": 56.3
+    },
+    {
+      "categoria": "Panadería",
+      "ingreso": 365410.4,
+      "ganancia": 237106.18,
+      "unidades": 14327,
+      "transacciones": 8429,
+      "margen_pct": 64.9
+    },
+    {
+      "categoria": "Bebidas",
+      "ingreso": 257019.1,
+      "ganancia": 153488.98,
+      "unidades": 5807,
+      "transacciones": 3410,
+      "margen_pct": 59.7
+    },
+    {
+      "categoria": "Temporada",
+      "ingreso": 112002.6,
+      "ganancia": 66988.4,
+      "unidades": 1307,
+      "transacciones": 783,
+      "margen_pct": 59.8
+    }
+  ],
+  "top10_productos_ingreso": [
+    {
+      "nombre": "Frappe de cafe Grande",
+      "ingreso": 237159.0,
+      "ganancia": 54768.48,
+      "unidades": 2719
+    },
+    {
+      "nombre": "Cafe en grano Oaxaca 1kg",
+      "ingreso": 212458.0,
+      "ganancia": 111682.0,
+      "unidades": 520
+    },
+    {
+      "nombre": "Cafe en grano Chiapas 1kg",
+      "ingreso": 195985.0,
+      "ganancia": 95915.8,
+      "unidades": 462
+    },
+    {
+      "nombre": "Cafe en grano Veracruz 1kg",
+      "ingreso": 185554.0,
+      "ganancia": 99864.0,
+      "unidades": 451
+    },
+    {
+      "nombre": "Cafe en grano Colima 1kg",
+      "ingreso": 172938.0,
+      "ganancia": 85275.8,
+      "unidades": 391
+    },
+    {
+      "nombre": "Latte helado Grande",
+      "ingreso": 158652.9,
+      "ganancia": 98288.82,
+      "unidades": 1711
+    },
+    {
+      "nombre": "Termo AzTech",
+      "ingreso": 141230.0,
+      "ganancia": 77853.4,
+      "unidades": 446
+    },
+    {
+      "nombre": "Cold brew Grande",
+      "ingreso": 140334.53,
+      "ganancia": 81016.61,
+      "unidades": 1592
+    },
+    {
+      "nombre": "Sandwich de jamon",
+      "ingreso": 135950.0,
+      "ganancia": 71925.0,
+      "unidades": 985
+    },
+    {
+      "nombre": "Quiche lorraine",
+      "ingreso": 132428.13,
+      "ganancia": 78968.13,
+      "unidades": 972
+    }
+  ],
+  "bottom10_productos": [
+    {
+      "nombre": "Pan de muerto",
+      "ingreso": 9114.75,
+      "ganancia": 5917.95,
+      "unidades": 192
+    },
+    {
+      "nombre": "Rol de canela",
+      "ingreso": 9591.0,
+      "ganancia": 5755.4,
+      "unidades": 446
+    },
+    {
+      "nombre": "Leche de avena",
+      "ingreso": 10194.8,
+      "ganancia": 5658.8,
+      "unidades": 324
+    },
+    {
+      "nombre": "Dona glaseada",
+      "ingreso": 13150.35,
+      "ganancia": 7875.63,
+      "unidades": 666
+    },
+    {
+      "nombre": "Dona de chocolate",
+      "ingreso": 13734.9,
+      "ganancia": 9337.5,
+      "unidades": 698
+    },
+    {
+      "nombre": "Ponche navideno",
+      "ingreso": 14231.25,
+      "ganancia": 9083.25,
+      "unidades": 240
+    },
+    {
+      "nombre": "Frappe de calabaza",
+      "ingreso": 14453.4,
+      "ganancia": 8799.96,
+      "unidades": 151
+    },
+    {
+      "nombre": "Garibaldi",
+      "ingreso": 15095.7,
+      "ganancia": 9863.1,
+      "unidades": 765
+    },
+    {
+      "nombre": "Filtros x100",
+      "ingreso": 15148.0,
+      "ganancia": 7625.8,
+      "unidades": 199
+    },
+    {
+      "nombre": "Smoothie verde",
+      "ingreso": 16718.4,
+      "ganancia": 11070.72,
+      "unidades": 477
+    }
+  ],
+  "metodo_pago_dist": {
+    "Efectivo": 34865,
+    "Tarjeta": 33240,
+    "App": 9981,
+    "Monedero": 5036
+  },
+  "metodo_pago_ingreso": {
+    "App": 1183091.68,
+    "Efectivo": 4203213.5,
+    "Monedero": 616238.95,
+    "Tarjeta": 4003560.51
+  },
+  "ventas_por_hora": {
+    "7": 1010857.75,
+    "8": 999805.95,
+    "9": 988423.92,
+    "10": 1010048.33,
+    "11": 448964.3,
+    "12": 429865.8,
+    "13": 420897.3,
+    "14": 444826.65,
+    "15": 420876.1,
+    "16": 757540.45,
+    "17": 755002.48,
+    "18": 759635.45,
+    "19": 758576.65,
+    "20": 397893.33,
+    "21": 402890.18
+  },
+  "ventas_por_dia": {
+    "Lunes": 1428694.38,
+    "Martes": 1422516.2,
+    "Miércoles": 1420491.75,
+    "Jueves": 1421841.95,
+    "Viernes": 1431733.03,
+    "Sábado": 1400367.66,
+    "Domingo": 1480459.67
+  },
+  "hora_pico": 7,
+  "dia_pico": "Domingo",
+  "ventas_por_mes": {
+    "2024-12": 784519.33,
+    "2025-01": 606455.95,
+    "2025-02": 497767.9,
+    "2025-03": 520122.33,
+    "2025-04": 504401.6,
+    "2025-05": 554955.4,
+    "2025-06": 478114.55,
+    "2025-07": 442393.5,
+    "2025-08": 493135.92,
+    "2025-09": 529945.5,
+    "2025-10": 593695.3,
+    "2025-11": 618439.68,
+    "2025-12": 751752.05,
+    "2026-01": 597140.1,
+    "2026-02": 482640.65,
+    "2026-03": 502457.08,
+    "2026-04": 501831.1,
+    "2026-05": 546336.7
+  },
+  "sql_q1": [
+    {
+      "ciudad": "Puebla",
+      "transacciones": 51072,
+      "ingreso": 5759826.84
+    },
+    {
+      "ciudad": "CDMX",
+      "transacciones": 32050,
+      "ingreso": 4246277.8
+    }
+  ],
+  "sql_q2": [
+    {
+      "categoria": "Café caliente",
+      "ingreso": 2527246.9,
+      "ganancia": 1669863.0
+    },
+    {
+      "categoria": "Café frío",
+      "ingreso": 2663433.21,
+      "ganancia": 1603766.94
+    },
+    {
+      "categoria": "Para llevar",
+      "ingreso": 2037528.0,
+      "ganancia": 1057649.2
+    },
+    {
+      "categoria": "Pastelería",
+      "ingreso": 1145136.0,
+      "ganancia": 698396.83
+    },
+    {
+      "categoria": "Snacks salados",
+      "ingreso": 898328.43,
+      "ganancia": 505329.09
+    },
+    {
+      "categoria": "Panadería",
+      "ingreso": 365410.4,
+      "ganancia": 237106.18
+    },
+    {
+      "categoria": "Bebidas",
+      "ingreso": 257019.1,
+      "ganancia": 153488.98
+    },
+    {
+      "categoria": "Temporada",
+      "ingreso": 112002.6,
+      "ganancia": 66988.4
+    }
+  ],
+  "sql_q3": [
+    {
+      "sucursal": "Condesa",
+      "empleados": 10,
+      "ingreso": 1623345.35,
+      "ingreso_por_empleado": 162335.0
+    },
+    {
+      "sucursal": "Angelopolis",
+      "empleados": 11,
+      "ingreso": 1673781.9,
+      "ingreso_por_empleado": 152162.0
+    },
+    {
+      "sucursal": "Centro Historico",
+      "empleados": 9,
+      "ingreso": 1366770.5,
+      "ingreso_por_empleado": 151863.0
+    },
+    {
+      "sucursal": "Coyoacan",
+      "empleados": 8,
+      "ingreso": 1186735.0,
+      "ingreso_por_empleado": 148342.0
+    },
+    {
+      "sucursal": "Zavaleta",
+      "empleados": 9,
+      "ingreso": 1313625.6,
+      "ingreso_por_empleado": 145958.0
+    },
+    {
+      "sucursal": "Polanco",
+      "empleados": 10,
+      "ingreso": 1436197.45,
+      "ingreso_por_empleado": 143620.0
+    },
+    {
+      "sucursal": "Cholula",
+      "empleados": 7,
+      "ingreso": 984402.84,
+      "ingreso_por_empleado": 140629.0
+    },
+    {
+      "sucursal": "La Paz",
+      "empleados": 8,
+      "ingreso": 421246.0,
+      "ingreso_por_empleado": 52656.0
+    }
+  ],
+  "stat_total": {
+    "media": 120.38,
+    "mediana": 85.05,
+    "moda": 63.8,
+    "std": 135.24,
+    "min": 10.0,
+    "max": 11400.0,
+    "q1": 54.6,
+    "q3": 144.0,
+    "cv": 1.12
+  },
+  "stat_edad": {
+    "media": 39.2,
+    "mediana": 38.0,
+    "std": 11.6
+  },
+  "stat_total_gastado": {
+    "media": 3121.28,
+    "mediana": 1045.0,
+    "std": 4129.77
+  },
+  "corr_matrix": {
+    "ingreso": {
+      "ingreso": 1.0,
+      "ganancia": 0.97,
+      "renta_mensual": 0.17,
+      "empleados": 0.77,
+      "m2": 0.2,
+      "ticket_prom": 0.37
+    },
+    "ganancia": {
+      "ingreso": 0.97,
+      "ganancia": 1.0,
+      "renta_mensual": 0.38,
+      "empleados": 0.8,
+      "m2": 0.15,
+      "ticket_prom": 0.57
+    },
+    "renta_mensual": {
+      "ingreso": 0.17,
+      "ganancia": 0.38,
+      "renta_mensual": 1.0,
+      "empleados": 0.55,
+      "m2": -0.14,
+      "ticket_prom": 0.86
+    },
+    "empleados": {
+      "ingreso": 0.77,
+      "ganancia": 0.8,
+      "renta_mensual": 0.55,
+      "empleados": 1.0,
+      "m2": 0.31,
+      "ticket_prom": 0.47
+    },
+    "m2": {
+      "ingreso": 0.2,
+      "ganancia": 0.15,
+      "renta_mensual": -0.14,
+      "empleados": 0.31,
+      "m2": 1.0,
+      "ticket_prom": -0.1
+    },
+    "ticket_prom": {
+      "ingreso": 0.37,
+      "ganancia": 0.57,
+      "renta_mensual": 0.86,
+      "empleados": 0.47,
+      "m2": -0.1,
+      "ticket_prom": 1.0
+    }
+  },
+  "corr_m2_ingreso": 0.2,
+  "corr_renta_ingreso": 0.17,
+  "corr_empleados_ingreso": 0.77,
+  "corr_edad_gasto": 0.26,
+  "corr_antiguedad_gasto": 0.29,
+  "kmeans_inercia": {
+    "2": 38755.0,
+    "3": 25897.0,
+    "4": 20052.0,
+    "5": 16755.0,
+    "6": 14441.0,
+    "7": 13149.0
+  },
+  "kmeans_k": 4,
+  "kmeans_perfil": [
+    {
+      "cluster": 0,
+      "n": 3807,
+      "recencia_media": 38.3,
+      "gasto_medio": 569.6,
+      "antiguedad_media": 184.2,
+      "edad_media": 29.6,
+      "pct": 28.0
+    },
+    {
+      "cluster": 1,
+      "n": 2909,
+      "recencia_media": 347.7,
+      "gasto_medio": 2197.2,
+      "antiguedad_media": 968.6,
+      "edad_media": 44.3,
+      "pct": 21.4
+    },
+    {
+      "cluster": 2,
+      "n": 4393,
+      "recencia_media": 65.4,
+      "gasto_medio": 1462.9,
+      "antiguedad_media": 814.9,
+      "edad_media": 41.0,
+      "pct": 32.3
+    },
+    {
+      "cluster": 3,
+      "n": 2480,
+      "recencia_media": 12.7,
+      "gasto_medio": 11073.8,
+      "antiguedad_media": 857.5,
+      "edad_media": 44.5,
+      "pct": 18.3
+    }
+  ],
+  "kmeans_etiquetas": [
+    {
+      "cluster": 0,
+      "segmento": "Nuevos exploradores",
+      "n": 3807,
+      "pct": 28.0,
+      "gasto_medio": 569.6,
+      "recencia_media": 38.3,
+      "antiguedad_media": 184.2,
+      "edad_media": 29.6
+    },
+    {
+      "cluster": 1,
+      "segmento": "En riesgo / Dormidos",
+      "n": 2909,
+      "pct": 21.4,
+      "gasto_medio": 2197.2,
+      "recencia_media": 347.7,
+      "antiguedad_media": 968.6,
+      "edad_media": 44.3
+    },
+    {
+      "cluster": 2,
+      "segmento": "Leales habituales",
+      "n": 4393,
+      "pct": 32.3,
+      "gasto_medio": 1462.9,
+      "recencia_media": 65.4,
+      "antiguedad_media": 814.9,
+      "edad_media": 41.0
+    },
+    {
+      "cluster": 3,
+      "segmento": "VIP / Campeones",
+      "n": 2480,
+      "pct": 18.3,
+      "gasto_medio": 11073.8,
+      "recencia_media": 12.7,
+      "antiguedad_media": 857.5,
+      "edad_media": 44.5
+    }
+  ],
+  "gasto_por_segmento": {
+    "Nuevos exploradores": 2168445.69,
+    "En riesgo / Dormidos": 6391529.52,
+    "Leales habituales": 6426384.85,
+    "VIP / Campeones": 27463063.76
+  },
+  "vip_pct_clientes": 18.3,
+  "vip_pct_gasto": 64.7,
+  "churn_180_pct": 23.3,
+  "churn_90_pct": 34.0,
+  "clientes_sin_compra_registrada": 454,
+  "lapaz_transacciones": 3838,
+  "lapaz_transacciones_dia": 7.0,
+  "transacciones_dia_promedio": 19.0
+}
