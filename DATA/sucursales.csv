@@ -1,0 +1,9 @@
+sucursal_id,nombre,ciudad,fecha_apertura,m2,renta_mensual,empleados
+1,Centro Historico,Puebla,2020-03-15,120,38000,9
+2,Angelopolis,Puebla ,2021-07-01,95,52000,11
+3,Cholula,Puebla,2022-01-20,80,28000,7
+4,La Paz,puebla,2023-09-10,,58000,8
+5,Zavaleta,PUEBLA,2021-11-05,100,41000,9
+6,Condesa,cdmx,2020-06-30,85,60000,10
+7,Polanco,cdmx,2022-04-12,90,"85,000",10
+8,Coyoacan,Ciudad de Mexico,2023-02-28,75,47000,8
